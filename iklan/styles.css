@@ -1,0 +1,18 @@
+.divv {
+  position: Absolute;
+  text-align:center;
+}
+.dv{
+   position:Absolute;
+   width:50px;
+   height:18px;
+   text-align:center;
+   background:#888888;
+   left: 200px;
+   border-radius:3px;
+}
+.fnt{
+  color:#ffffff;
+  font-family:Roboto;
+  font-size:12px;
+}
