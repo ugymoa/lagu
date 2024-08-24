@@ -1,0 +1,1 @@
+fldrS=['kompilasi_02','kompilasi_04','kompilasi_05','kompilasi_07','kompilasi_08'];

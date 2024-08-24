@@ -1,0 +1,12 @@
+var laguList =['ADA BAND:Kau Auraku:null',
+'ADA BAND feat GITA_GUTTAWA:Yang Terbaik Bagimu Ayah:null',
+'ADAM SURAJA:Kusuka:null',
+'ANGELBERT RAP:Ade Baju Biru:null',
+'ADELE:When We Were Young:null',
+'ALAN WALKER:Faded:null',
+'ALAN WALKER:Rays Of Light:null',
+'ALAN WALKER:Sing Me To Sleep:null',
+'ALDY MALDINI:Biar Aku Yang Pergi:null',
+'ALEXA:Jangan Kau Lepas:null',
+'JOHN LEGEND (Cover_By_Jasmine_Thompson):All of Me:null',
+'ANAK MENGAJI: Al Quran Surah AT TIN AL ALAQ:null'];

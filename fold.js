@@ -1,0 +1,1 @@
+var fldr=['kompilasi_01','kompilasi_02','kompilasi_03','kompilasi_04','kompilasi_05','kompilasi_06','kompilasi_07','kompilasi_08'];

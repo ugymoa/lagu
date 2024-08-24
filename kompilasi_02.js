@@ -1,0 +1,12 @@
+var lagu =['Andien_Tyas___Puisi_Official_Video.m4a',
+'Anji_-_Bidadari_Tak_Bersayap_(Lirik_Lagu).mp3',
+'Anji_-_Bukan_Lelaki_Sempurna_(Official_Audio).m4a',
+'ANJI_-_DIA_(_lirik_lagu_)_lagu_terbaru_2016.mp3',
+'Anji_-_Jerawat_Rindu_(Official_Video).m4a',
+'Ari_Lasso_-_Perbedaan_(Official_Video).m4a',
+'Ariana_Grande_-_Side_To_Side_ft._Nicki_Minaj.mp3',
+'Armada_-_Asal_Kau_Bahagia_(Official_Lyric_Video).m4a',
+'Assalamu_alaika_ya_Rasulallah,_by__Veve_zulfikar.m4a',
+'Balasan_surat_cinta_starla.mp3',
+'Batu_Nisan_-_Cahaya_Bidadari.mp3',
+'Best_of_marshmello_marshmello_Original_Mix.mp3'];

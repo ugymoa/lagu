@@ -1,0 +1,8 @@
+﻿Apa kabar teman baikku
+
+
+/*var layS = ['lys0','lys1','lys2','lys3','lys4','lys5','lys6','lys7','lys8','lys9','lys10','lys11','lys12'];
+var layCardS =['laycs0','laycs1','laycs2','laycs3','laycs4','laycs5','laycs6','laycs7','laycs8','laycs9','laycs10','laycs11','laycs12'];
+var layInfoS = ['layfs0','layfs1','layfs2','layfs3','layfs4','layfs5','layfs6','layfs7','layfs8','layfs9','layfs10','layfs11','laysf12'];
+var imgCvrS = ['imgcvs0','imgcvs1','imgcvs2','imgcvs3','imgcvs4','imgcvs5','imgcvs6','imgcvs7','imgcvs8','imgcvs9','imgcvs10','imgcvs11','imgcvs12'];
+var txtS = ['txtts0','txtts1','txtts2','txtts3','txtts4','txtts5','txtts6','txtts7','txtts8','txtts9','txtts10','txtts11','txtts12'];*/

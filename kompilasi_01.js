@@ -1,0 +1,12 @@
+var lagu = ['ADA_Band_-_Kau_Auraku.mp3',
+'Ada_Band_feat._Gita_Gutawa_-_Yang_Terbaik_Bagimu_(Ayah)_[Lirik].m4a',
+'ADAM_SURAJA_-_Kusuka.m4a',
+'Ade_Baju_Biru_(Angelbert_Rap)_[New_Version_2017]_(Achiro_Deon).m4a',
+'Adele_-_When_We_Were_Young_Lyrics_(Official_Audio)',
+'Alan_Walker_-_Faded.mp3',
+'Alan_Walker_-_Rays_Of_Light.mp3',
+'Alan_Walker_-_Sing_Me_To_Sleep.mp3',
+'ALDY_MALDINI_-_BIAR_AKU_YANG_PERGI_(Official_lyric_video).mp3',
+'Alexa_-__Jangan_Kau_Lepas__(Official_Video)m4a',
+'All_of_Me_-_ John_Legend_(Cover_By_Jasmine_Thompson).mp3',
+'Anak_Mengaji_Al_Quran_Surah_AT_TIN_AL_ALAQ __Suaranya_merdu_sekali.mp3'];
